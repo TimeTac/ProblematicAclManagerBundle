@@ -1,5 +1,6 @@
 {
     "name": "timetac/acl-manager-bundle",
+    "version": "1.0",
     "type": "symfony-bundle",
     "description": "ACL Manager for Symfony2",
     "keywords": ["ACL management"],
